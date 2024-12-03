@@ -147,9 +147,6 @@ export default function Signup() {
                 <div className="hidden next-to-email">
                     Please enter a valid E-mail
                 </div>
-                <div className='full-scr'>
-                    {backgroundElements}
-                </div>
                 <div className="blur"></div>
             </div>
         </div>

@@ -23,9 +23,7 @@
     padding: 1vw;
     padding-top: 3vw;
     padding-bottom: 2vw;
-    border: 0.7px solid grey;
     border-radius: 8vw;
-    backdrop-filter: blur(5px);
 }
 
 .input-sign.age {
